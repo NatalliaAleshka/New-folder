@@ -30,6 +30,6 @@ const employee1 = {
     lastName: "Drew",
     age: 27,
     worked: ["Crysler", "Tomato Corp", "Visual Stuff", "Lavander Inc",]
-  };
+  }
   
   compareEmployees(employee1, employee2);
