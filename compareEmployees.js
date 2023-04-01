@@ -23,7 +23,7 @@ const employee1 = {
     lastName: "Grow",
     age: 24,
     worked: ["Taco Bell", "TopCrop", "Amex", "Jeep"]
-  };
+  }
   
   const employee2 = {
     name: "Conrod",
